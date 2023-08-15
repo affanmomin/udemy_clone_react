@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "instructor": "John Smith",
+      "vote": 4.8,
+      "students": 1200,
+      "price": 49.99,
+      "oldPrice": 89.99
+    },
+    {
+      "id": 2,
+      "title": "Web Development Masterclass",
+      "instructor": "Jane Doe",
+      "vote": 4.9,
+      "students": 1800,
+      "price": 59.99,
+      "oldPrice": 109.99
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design Fundamentals",
+      "instructor": "Alex Johnson",
+      "vote": 4.7,
+      "students": 800,
+      "price": 39.99,
+      "oldPrice": 79.99
+    },
+    {
+      "id": 4,
+      "title": "Data Science Essentials",
+      "instructor": "Emily Brown",
+      "vote": 4.6,
+      "students": 1500,
+      "price": 69.99,
+      "oldPrice": 119.99
+    },
+    {
+      "id": 5,
+      "title": "Photography Basics",
+      "instructor": "Michael Williams",
+      "vote": 4.5,
+      "students": 1000,
+      "price": 29.99,
+      "oldPrice": 59.99
+    },
+    {
+      "id": 6,
+      "title": "Business Marketing Strategies",
+      "instructor": "Sarah Johnson",
+      "vote": 4.8,
+      "students": 2200,
+      "price": 79.99,
+      "oldPrice": 129.99
+    },
+    {
+      "id": 7,
+      "title": "Language Learning Adventure",
+      "instructor": "Carlos Ramirez",
+      "vote": 4.7,
+      "students": 750,
+      "price": 44.99,
+      "oldPrice": 89.99
+    },
+    {
+      "id": 8,
+      "title": "Artificial Intelligence Explained",
+      "instructor": "Amanda Lee",
+      "vote": 4.9,
+      "students": 2800,
+      "price": 59.99,
+      "oldPrice": 99.99
+    },
+    {
+      "id": 9,
+      "title": "Fitness and Wellness Fundamentals",
+      "instructor": "Daniel White",
+      "vote": 4.6,
+      "students": 1300,
+      "price": 34.99,
+      "oldPrice": 69.99
+    },
+    {
+      "id": 10,
+      "title": "Cooking Techniques for Beginners",
+      "instructor": "Olivia Green",
+      "vote": 4.7,
+      "students": 950,
+      "price": 24.99,
+      "oldPrice": 49.99
+    }
+   
+  ]
+  
